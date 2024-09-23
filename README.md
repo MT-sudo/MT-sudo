@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MT-sudo
+- 👋 Hi, I’m Madhu Tanneru
 - 👀 I’m interested in AI & ML concepts
 - 🌱 I’m currently learning Apache Kafka, Machine learning and AI
 - 💞️ I’m looking to collaborate on data related projects
